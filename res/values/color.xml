@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="isselected">#A10000</color>
+    <color name="notselected">#1E1E1E</color>
+    <color name="actionbarbackgroundcolor">#B92120</color>
+    <color name="actionbartextcolor">#F6ECED</color>
+    <color name="list_item_intro">#ff8b8b8b</color>
+    <color name="list_item_divider">#ffefefef</color>
+    <color name="list_item_feed_title">#ff262626</color>
+    <color name="list_item_comment">#ffbababa</color>
+
+</resources>

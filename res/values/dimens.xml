@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="list_item_padding_left">10.0dip</dimen>
+    <dimen name="list_item_padding_right">10.0dip</dimen>
+    <dimen name="list_item_title_size">15.0sp</dimen>
+    <dimen name="list_item_intro_size">11.0sp</dimen>
+    <dimen name="list_item_comment_interval">14.0dip</dimen>
+    <dimen name="list_item_comment_size">9.0sp</dimen>
+    <dimen name="list_item_divider_height">0.5dip</dimen>
+    <dimen name="list_item_padding_bottom">13.0dip</dimen>
+    <dimen name="list_item_pic_img_height">70.0dip</dimen>
+    <dimen name="list_item_padding_top">13.0dip</dimen>
+    <dimen name="list_item_img_width">82.0dip</dimen>
+    <dimen name="list_item_img_height">59.0dip</dimen>
+    <dimen name="setting_divider_height">0.5dip</dimen>
+    <dimen name="setting_item_left_margin">15.0dip</dimen>
+    <dimen name="setting_text_large">17.0sp</dimen>
+    <dimen name="setting_item_icon_size">22.0dip</dimen>
+    <dimen name="setting_item_right_margin">15.0dip</dimen>
+    <dimen name="setting_item_checkbox_width">60.0dip</dimen>
+    <dimen name="setting_item_checkbox_height">30.0dip</dimen>
+    <dimen name="setting_item_height">54.0dip</dimen>
+
+</resources>
